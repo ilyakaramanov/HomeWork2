@@ -2,6 +2,10 @@ package ua.org.oa.ilyakaramanov;
 
 import java.io.IOException;
 
+/*
+Запускаем методы класса Service
+ */
+
 public class Main {
     public static void main(String[] args) throws IOException {
 
